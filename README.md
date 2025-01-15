@@ -1,0 +1,1 @@
+This repository demonstrates a common error in DApps: the failure to handle the scenario where a user denies access to their MetaMask wallet. The `bug.js` file shows the problematic code, while `bugSolution.js` provides a corrected version with robust error handling.
